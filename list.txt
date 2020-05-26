@@ -1,130 +1,114 @@
-associacao folclorica contatos
-associacao folclorica contatos|contacto
-associacao|grupo folclorica contatos
-associazione culturale Bologna contatto
-associazione culturale contatti -site:facebook.com -site:instagram.com
-associazione culturale Genova contatto
-associazione culturale (milanese|milano) contatto
-associazione culturale (milanese|milano) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
-associazione culturale napoli contatto
-associazione culturale (napoli|napoletana|napoletane) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
-associazione culturale Palermo contatto
-associazione culturale Roma contatto
-associazione culturale (siciliano|sicilia|siciliani) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
-associazione culturale (siciliano|sicilia|siciliani) contatto -site:facebook.com -site:instagram.com -site:twitter.com
-associazione culturale -site:facebook.com
-associazione culturale Torino contatto
-Bălți ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-(Bender|Tighina) ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
+Bălți ansamblul (folcloric|populare) (contact|legătura)
+(Bender|Tighina) ansamblul (folcloric|populare) (contact|legătura)
 Buchelgruppe kontakt
-Cahul ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Chinesische (Tanzgruppe|Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) -site:facebook.com -site:instagram.com -site:pinterest.com -site:twitter.com
-Chinesische (Tanzgruppe|Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) -site:facebook.com -site:twitter.com
-Chișinău ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Comrat ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-dabke dance OR tanz group OR gruppe OR grupp OR troupe contact OR kontakt -site:facebook.com
-dansarlaget kontakt email -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
-danse folklorique intext:contact -site:facebook.com
-dawnswyr cysylltu -site:facebook.com
-Dubăsari ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-folk dance group contact -site:facebook.com
+Cahul ansamblul (folcloric|populare) (contact|legătura)
+Chinesische (Tanzgruppe|Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum)
+Chinesische (Tanzgruppe|Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) 
+Chișinău ansamblul (folcloric|populare) (contact|legătura)
+Comrat ansamblul (folcloric|populare) (contact|legătura)
+dabke dance OR tanz group OR gruppe OR grupp OR troupe contact OR kontakt
+dansarlaget kontakt email
+danse folklorique intext:contact
+dawnswyr cysylltu
+Dubăsari ansamblul (folcloric|populare) (contact|legătura)
+folk dance group contact
 folkdans intext:kontakt
 folkdans kontakta
 "folkedans" kontakt
 folkedans kontakt
-"folkedans" kontakt -site:facebook.com
-folkloras kopa -site:facebook.com -site:youtube.com
-folklór együttes kapcsolat -site:facebook.com -site:twitter.com -site:instagram.com
-Griechische (Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) -site:facebook.com -site:instagram.com -site:pinterest.com -site:twitter.com
-Griechische (Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) -site:facebook.com -site:twitter.com
-Griechische Folklore- und Tanzgruppe (kontakt|impressum) -site:facebook.com -site:instagram.com -site:pinterest.com -site:twitter.com
-Griechische Folklore- und Tanzgruppe (kontakt|impressum) -site:facebook.com -site:twitter.com
-(groupe|troupe) de danse (folklorique|traditionnelle) (maroc|tunis) contact -site:facebook.com -site:twitter.com
+"folkedans" kontakt
+folkloras kopa -site:youtube.com
+folklór együttes kapcsolat  -site:instagram.com
+Griechische (Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum)
+Griechische (Folkloregruppe|Volkstanzgruppe|Volkstanz) (kontakt|impressum) 
+Griechische Folklore- und Tanzgruppe (kontakt|impressum)
+Griechische Folklore- und Tanzgruppe (kontakt|impressum) 
+(groupe|troupe) de danse (folklorique|traditionnelle) (maroc|tunis) contact 
 grupo folklorico contacto|contactos
 grupo|rancho folklorico|folclorico contactos|contacto
 gruppo folk Bologna contatto
-gruppo folk contatti -site:facebook.com
+gruppo folk contatti
 gruppo folk Genova contatto
-gruppo folkloristico -site:facebook.com -site:instagram.com
+gruppo folkloristico -site:instagram.com
 gruppo folk (milanese|milano) contatto
-gruppo folk (milanese|milano) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
+gruppo folk (milanese|milano) (contatto|contatti)
 gruppo folk napoli contatto
-gruppo folk napoli (contatto|contatti) -site:facebook.com -site:instagram.com
-gruppo folk napoli contatto -site:facebook.com
+gruppo folk napoli (contatto|contatti) -site:instagram.com
+gruppo folk napoli contatto
 gruppo folk (napoli|napoletana|napoletane) (contatto|contatti)
-gruppo folk (napoli|napoletana|napoletane) (contatto|contatti) -site:facebook.com -site:instagram.com
-gruppo folk (napoli|napoletana|napoletane) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
+gruppo folk (napoli|napoletana|napoletane) (contatto|contatti) -site:instagram.com
+gruppo folk (napoli|napoletana|napoletane) (contatto|contatti)
 gruppo folk Palermo contatto
 gruppo folk Roma contatto
-gruppo folk (siciliano|Sicilia|siciliani) (contatto|contatti) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
-gruppo folk (siciliano|Sicilia|siciliani) contatto -site:facebook.com -site:instagram.com -site:twitter.com
+gruppo folk (siciliano|Sicilia|siciliani) (contatto|contatti)
+gruppo folk (siciliano|Sicilia|siciliani) contatto
 gruppo folk Torino contatto
-halk dansları (grubu|topluluğu) (İletişim|contact|kontakt) email -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
+halk dansları (grubu|topluluğu) (İletişim|contact|kontakt) email
 heimatvereine kontakt
-heimatvereine kontakt -site:facebook.com
+heimatvereine kontakt
 intitle:(VtG|Volkstanzgruppe) intext:(kontakt|impressum|email)
 intitle:VtG|volkstanzgruppe|volkstanzkreis intext:kontakt|impressum
 intitle:(VtG|Volkstanzgruppe|volkstanzkreis) intext:(volkstanzgruppe|volkstanzkreis AND kontakt|impressum)
-intitle:(VtG|Volkstanzgruppe|volkstanzkreis) intext:(volkstanzgruppe|volkstanzkreis AND kontakt|impressum) -site:facebook.com
+intitle:(VtG|Volkstanzgruppe|volkstanzkreis) intext:(volkstanzgruppe|volkstanzkreis AND kontakt|impressum)
 kulturalis egyesulet kapcsolat
-Kulturális Egyesület kapcsolat -site:facebook.com
+Kulturális Egyesület kapcsolat
 kulturno umetnicko drustvo kontakt email
-kulturno umetnicko drustvo kontakt email -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com
+kulturno umetnicko drustvo kontakt email
 Néptánccsoport intext:kapcsolat
 néptánc együttes intext:kapcsolat
-(neptancegyuttes|tancegyuttes) (elerhetosegek|kapcsolat) -site:facebook.com
+(neptancegyuttes|tancegyuttes) (elerhetosegek|kapcsolat)
 ﻿neptanc kapcsolat|elérhetőség
 neptanc kapcsolat|elérhetőség
 Néptáncs kapcsolat|elérhetőség
-Orhei ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-oriental dance (group|school|troupe|ensemble) contact -site:facebook.com -site:twitter.com
+Orhei ansamblul (folcloric|populare) (contact|legătura)
+oriental dance (group|school|troupe|ensemble) contact 
 rancho folklorico|folclorico contact
-Rîbnița ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-school irish dance contact -site:facebook.com -site:twitter.com -site:instagram.com
-Soroca ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Strășeni ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
+Rîbnița ansamblul (folcloric|populare) (contact|legătura)
+school irish dance contact  -site:instagram.com
+Soroca ansamblul (folcloric|populare) (contact|legătura)
+Strășeni ansamblul (folcloric|populare) (contact|legătura)
 tancegyuttes kapcsolat|elérhetőség
 (tanz|tanzgruppe) "kontakt" (vokstanzgruppe|volkstanz)
 (tanz|tanzgruppe|trachtengruppe|vokstanzgruppe|volkstanz) "kontakt"
-tautas (deja|deju) (kontakts|kontakti) -site:facebook.com -site:youtube.com
+tautas (deja|deju) (kontakts|kontakti) -site:youtube.com
 tautas deju kontakts
 tautinių šokių kontaktas
-Tiraspol ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
+Tiraspol ansamblul (folcloric|populare) (contact|legătura)
 trachtengruppe kontakt
-trachtengruppe (kontakt|impressum) -site:facebook.com
-trachtengruppe kontakt|impressum -site:facebook.com -site:instragram.com
-trachtenverein (contact|kontakt) -site:facebook.com -site:instagram.com -site:twitter.com
-trachtenverein intext:kontakt -site:facebook.com
-trachtenverein kontakt|impressum -site:facebook.com -site:instragram.com
-trachtenverein kontakt -site:facebook.com
-(trachtenverein|trachtengruppe) (kontakt|impressum) -site:facebook.com -site:instagram.com -site:pinterest.com -site:twitter.com
-(trachtenverein|trachtengruppe) (kontakt|impressum) -site:facebook.com -site:twitter.com
-(traditional|folklore|folk) dance (group|ensemble|school) contact -site:facebook.com -site:instagram.com -site:twitter.com
-ukrainische (tanzgruppe|volkstanz|volkstanzgruppe) (impressum|kontakt) -site:facebook.com -site:instagram.com -site:pinterest.com -site:twitter.com
-Ungheni ansamblul (folcloric|populare) (contact|legătura) -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-volkstanzgruppe (contact|kontakt) -site:facebook.com -site:instagram.com -site:twitter.com
-volkstanzgruppe kontakt|impressum -site:facebook.com -site:instragram.com
-volkstanzgruppe kontakt -site:facebook.com
+trachtengruppe (kontakt|impressum)
+trachtengruppe kontakt|impressum -site:instragram.com
+trachtenverein (contact|kontakt)
+trachtenverein intext:kontakt
+trachtenverein kontakt|impressum -site:instragram.com
+trachtenverein kontakt
+(trachtenverein|trachtengruppe) (kontakt|impressum)
+(trachtenverein|trachtengruppe) (kontakt|impressum) 
+(traditional|folklore|folk) dance (group|ensemble|school) contact
+ukrainische (tanzgruppe|volkstanz|volkstanzgruppe) (impressum|kontakt)
+Ungheni ansamblul (folcloric|populare) (contact|legătura)
+volkstanzgruppe (contact|kontakt)
+volkstanzgruppe kontakt|impressum -site:instragram.com
+volkstanzgruppe kontakt
 volkstanzgruppe marbach
 (volkstanzgruppe|volkstanzkreis) (kontakt|impressum)
 volkstanzgruppe|volkstanzkreis kontakt|impressum
-(volkstanzgruppe|volkstanzkreis|trachtenverein|trachtengruppe) (contact|kontakt) -site:facebook.com -site:instagram.com -site:twitter.com
-volkstanzkreis (contact|kontakt) -site:facebook.com -site:instagram.com -site:twitter.com
+(volkstanzgruppe|volkstanzkreis|trachtenverein|trachtengruppe) (contact|kontakt)
+volkstanzkreis (contact|kontakt)
 VtG|volkstanzgruppe kontakt intext:volkstanzgruppe
-Zespół  Ludowego kontakt -site:facebook.com
-Zespół  Ludowego kontakt -site:facebook.com -site:youtube.com -site:twitter.com -site:instagram.com
+Zespół  Ludowego kontakt
+Zespół  Ludowego kontakt -site:youtube.com -site:twitter.com -site:instagram.com
 ZPiT intext:zespol kontakt
 zpit kontakt intext:zespol|Zespół
-Дніпро фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Донецьк фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Запоріжжя фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Київ фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Кривий Ріг фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Луганськ фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Львів фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Маріуполь фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Миколаїв фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
-Одеса фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
+Дніпро фольклорний (ансамбль|колектив|група|школа) контакт
+Донецьк фольклорний (ансамбль|колектив|група|школа) контакт
+Запоріжжя фольклорний (ансамбль|колектив|група|школа) контакт
+Київ фольклорний (ансамбль|колектив|група|школа) контакт
+Кривий Ріг фольклорний (ансамбль|колектив|група|школа) контакт
+Луганськ фольклорний (ансамбль|колектив|група|школа) контакт
+Львів фольклорний (ансамбль|колектив|група|школа) контакт
+Маріуполь фольклорний (ансамбль|колектив|група|школа) контакт
+Миколаїв фольклорний (ансамбль|колектив|група|школа) контакт
+Одеса фольклорний (ансамбль|колектив|група|школа) контакт
 фольклорный ансамбль intext:контакт
-Фольклорный ансамбль контакт -site:facebook.com -site:instagram.com
-Харків фольклорний (ансамбль|колектив|група|школа) контакт -site:facebook.com -site:instagram.com -site:twitter.com -site:youtube.com -site:vk.com
+Фольклорный ансамбль контакт -site:instagram.com
+Харків фольклорний (ансамбль|колектив|група|школа) контакт
